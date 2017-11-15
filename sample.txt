@@ -1,3 +1,4 @@
 this is sample text
 learn github using tutorials
 php is server side scripting language
+php can easily develope a dynamic application
